@@ -1,6 +1,6 @@
 <!-- EDITAR: antes de publicar, confirmá que https://fabricio-martinez.github.io/ ya esté en línea; si no, los enlaces "Ver en el sitio" no van a abrir. -->
 
-<a href="https://fabricio-martinez.github.io/"><img src="assets/banner.png" alt="Fabricio Martinez — Ingeniería Mecánica" width="100%"></a>
+<a href="https://fabricio-martinez.github.io/"><img src="assets/banner.svg" alt="Fabricio Martinez — Ingeniería Mecánica" width="100%"></a>
 
 Soy estudiante avanzado de Ingeniería Mecánica en la Universidad Nacional de Mar del Plata. Trabajo en diseño mecánico, análisis cinemático y simulación, y me interesan la ingeniería aeroespacial y la aeronáutica.
 
